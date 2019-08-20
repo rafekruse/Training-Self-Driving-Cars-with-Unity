@@ -12,7 +12,9 @@ The below is an example of a single generation of a sample of 150 cars training.
 
 ![Driving](https://user-images.githubusercontent.com/43308388/63300753-fb6b8c80-c2a6-11e9-9ba4-02cc2e28900d.gif)
 
-## Boundaries
+## Boundaries and Fitness
+
+An important 
 ![boundaries](https://user-images.githubusercontent.com/43308388/63312263-f3bfde00-c2ce-11e9-9ab8-936afbe00e99.png)
 
 
