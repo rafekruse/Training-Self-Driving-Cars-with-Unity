@@ -7,7 +7,7 @@ To Navigate the maze the cars make use of 5 "sensors" that each feed (distance o
 
 The population of cars evolve by starting out with entirely random NN's. At each new generation a user determined proportion of the generation will be copies of the most fit car from the preivous generation. Each car then has a user determined chance to have the weights in its neural network [mutated](https://en.wikipedia.org/wiki/Mutation_(genetic_algorithm)). The population of cars are then spawned and run through the course until they either hit an obstacle or survive until the generation time limit.
 
-The below is an example of a sample of 150 cars training. Notes: The lines are the sensors, the purple car is the most fit, and the red are dead cars that can be hidden by a toggleable setting. 
+The below is an example of a single generation of a sample of 150 cars training. Notes: The lines are the sensors, the purple car is the most fit, and the red are dead cars that can be hidden by a toggleable setting. 
 
 
 ![Driving](https://user-images.githubusercontent.com/43308388/63300753-fb6b8c80-c2a6-11e9-9ba4-02cc2e28900d.gif)
