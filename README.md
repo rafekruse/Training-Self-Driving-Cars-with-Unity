@@ -13,6 +13,7 @@ The below is an example of a single generation of a sample of 150 cars training.
 ![Driving](https://user-images.githubusercontent.com/43308388/63300753-fb6b8c80-c2a6-11e9-9ba4-02cc2e28900d.gif)
 
 boundaries
+![boundaries](https://user-images.githubusercontent.com/43308388/63309533-2238bb80-c2c5-11e9-96e0-47c9bf2776b1.png)
 
 Inspector part
 
