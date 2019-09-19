@@ -1,7 +1,7 @@
 # Training-Self-Driving-Cars-with-Unity
 
 
-This project is a simulator for training cars, controlled by [artificial neural networks](https://en.wikipedia.org/wiki/Artificial_neural_network)(NN), to navigate a maze. Cars improve by means of a [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)(GA) that simulates real world natural selection.
+This project is a simulator for training cars, controlled by [artificial neural networks](https://en.wikipedia.org/wiki/Artificial_neural_network)(ANN), to navigate a maze. Cars improve by means of a [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)(GA) that simulates real world natural selection.
 
 
 The below is an example of a single generation of a sample of 150 cars training. Notes: The lines are the sensors, the purple car is the most fit, and the red are dead cars that can be hidden by a toggleable setting. 
